@@ -1,8 +1,11 @@
 torch
 torchvision
 torchsummary
-matplotlib
 numpy
+matplotlib
 seaborn
 scikit-learn
-
+pillow
+onnx
+onnxscript
+onnxruntime-gpu
